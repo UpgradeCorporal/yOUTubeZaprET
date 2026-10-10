@@ -1,10 +1,10 @@
 # yOUTubeZaprET
 
-YouTube тормозит из‑за DPI. yOUTubeZaprET обходит это на Windows 10/11 одним .bat файлом.
+Актуальная версия с поддержкой YouTube в текущих условиях. Надежнее, быстрее, стабильнее
 
 YouTube тормозит из‑за DPI. yOUTubeZaprET обходит это на Windows 10/11 одним .bat файлом. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/UpgradeCorporal/yOUTubeZaprET/releases/latest
-Код: https://github.com/UpgradeCorporal/yOUTubeZaprET
+Релиз: https://github.com/upgradecorporal/yOUTubeZaprET/releases/latest
+Код: https://github.com/upgradecorporal/yOUTubeZaprET
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/UpgradeCorporal/yOUTubeZaprET
+Страница: https://github.com/upgradecorporal/yOUTubeZaprET
